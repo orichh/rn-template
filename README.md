@@ -1,1 +1,1 @@
-# shame-wins
+# rn template for expo and supabase
